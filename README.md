@@ -2,4 +2,6 @@ El objetivo principal de este proyecto no reside en el diseño del sitio web, si
 
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
 
+*Inicio del sitio web*
 ![Portada1](https://github.com/Codermex-freelance/U-Carrito/assets/143505447/daa35742-ee94-4bf0-9ed6-2148fa2d8618)
+
