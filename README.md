@@ -5,5 +5,5 @@ El objetivo principal de este proyecto no reside en el diseño del sitio web, si
 -Inicio del sitio web
 ![Portada1](https://github.com/Codermex-freelance/U-Carrito/assets/143505447/daa35742-ee94-4bf0-9ed6-2148fa2d8618)
 
--Cursos con un boton de agregar al carrito diseñado en JS
+-Cursos para seleccionar con un boton de agregar al carrito con el evento CLICK diseñado en JS
 ![Captura](https://github.com/Codermex-freelance/U-Carrito/assets/143505447/6b556aa9-de81-47f0-8883-b99c9b4d1199)
