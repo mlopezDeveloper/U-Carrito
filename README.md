@@ -4,3 +4,8 @@ El objetivo principal de este proyecto no reside en el diseño del sitio web, si
 
 ![image](![image](https://github.com/Codermex-freelance/U-Carrito/Develop/assets/portada1.jpg)
 )
+
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span>
+<span>(</span><span>https://raw.githubusercontent.com/Codermex-freelance/U-Carrito/Develop/assets/portada1.jpg</span><span>)</span>
+
+https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
